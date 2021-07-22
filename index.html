@@ -15,7 +15,13 @@
 </head>
 
 <body>
-	<div id="stars"></div>
+<div>
+	<ul class="lang-picker">
+		<li id="vietnamese">Vietnamese</li>
+		<li id="english">English</li>
+	</ul>
+</div>
+<div id="stars"></div>
 <div id="stars2"></div>
 <div id="stars3"></div>
 	<header>
@@ -32,18 +38,18 @@
 			<ul class="nav-list">
 				
 				<li>
-					<a href="#" class="nav-link">Home</a>
-					<a href="#about" class="nav-link">About</a>
-					<a href="#services" class="nav-link">Services</a>
-					<a href="#portfolio" class="nav-link">Portfolio</a>
-					<a href="#experience" class="nav-link">Experience</a>
-					<a href="#contact" class="nav-link">Contact</a>
+					<a href="#" class="nav-link" data-i18n="demo.nav.home"></a>
+					<a href="#about" class="nav-link" data-i18n="demo.nav.about"></a>
+					<a href="#services" class="nav-link" data-i18n="demo.nav.services"></a>
+					<a href="#portfolio" class="nav-link" data-i18n="demo.nav.portfolio"></a>
+					<a href="#experience" class="nav-link" data-i18n="demo.nav.experience"></a>
+					<a href="#contact" class="nav-link" data-i18n="demo.nav.contact"></a>
 				</li>
 			</ul>
 		</nav>
 		<div class="landing-text">
-			<h1>Nguyen Ngo Anh Tuan</h1>
-			<h6>Java Developer | UI/Database Designer</h6>
+			<h1 data-i18n="demo.title"></h1>
+			<h6 data-i18n="demo.text"></h6>
 			
 		</div>
 	</header>
@@ -196,9 +202,9 @@
 			</div>
 			<form action="">
 				<label for="name">Name:</label>
-				<input type="text" id="name" name="name" placeholder="Enter your name..." required>
+				<input type="text" id="name" name="name" data-i18n-placeholder="demo.form.name" required>
 				<label for="email">Email:</label>
-				<input type="email" id="email" name="email" placeholder="Enter your email..." required>
+				<input type="email" id="email" name="email" data-i18n-placeholder="demo.form.email" required>
 				<label for="services">Services:</label>
 				<select name="services" id="services" required>
 					<option value="">Backend Development</option>
@@ -207,7 +213,7 @@
 				</select>
 				<label for="subject">Subject:</label>
 				<textarea name="subject" id="subject" cols="10" rows="10"></textarea>
-				<input type="submit" value="Submit">
+				<input type="submit" data-i18n-value="demo.form.submit">
 			</form>
 		</div>
 	</section>
@@ -222,6 +228,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 	<script src="./js/main.js"></script>
+        <script src="i18n/lang.js"></script>
 </body>
 
 </html>
