@@ -95,6 +95,27 @@ img{
     width: 100%;
     border-radius: 2%;
 }
+
+/* Language css start */
+.lang-picker {
+	padding: 2rem 0 0 0;
+	text-align: center;
+}
+
+.lang-picker li {
+	list-style: none;
+	display: inline-block;
+	font: 400 14px/20px sans-serif;
+	color: #393939;
+	cursor: pointer;
+}
+
+.lang-picker li.selected {
+	font-weight: 900;
+	color: #496992;
+}
+/* Language css end */
+
 /* Global css end */
 
 /* start reusable */
