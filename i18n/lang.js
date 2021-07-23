@@ -66,12 +66,12 @@
 		"en": "Past and current jobs",
 		    },
 		"title": {
-			"vi": "Tôi đã học để trở thành một kỹ sư phát triển phần mềm chủ yếu tập trung vào bề mặt dưới, tức là phát triển Java với Spring framework. Nó cũng bao gồm các loại cơ sở dữ liệu.",
-			"en": "I has learnt to become a software engineer primarily focussing on backend i.e. Java Development with spring framework. It also includes database operations.",
+			"vi": "Trường Cao đẳng FPT Polytechnic Đà Nẵng",
+			"en": "FPT POLYTECHNIC COLLEGE",
 		},
 		"text": {
-                "vi": "Lập trình viên Java | Thiết kế Database/UI",
-                "en": "Java Developer | UI/Database Designer",
+                "vi": "Tôi đã học để trở thành một kỹ sư phát triển phần mềm chủ yếu tập trung vào bề mặt dưới, tức là phát triển Java với Spring framework. Nó cũng bao gồm các loại cơ sở dữ liệu.",
+                "en": "I has learnt to become a software engineer primarily focussing on backend i.e. Java Development with spring framework. It also includes database operations.",
             },
 	}
 
