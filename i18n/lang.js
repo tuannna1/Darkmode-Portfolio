@@ -51,15 +51,29 @@
 			}
 		},
         "project":{
-			"name": {
-				"vi": "Website thời trang Sunrise",
-				"en": "Sunrise Shop Website",
-			},
+	    "name": {
+		"vi": "Website thời trang Sunrise",
+		"en": "Sunrise Shop Website",
+		    },
             "text": {
                 "vi": "Lập trình viên Java | Thiết kế Database/UI",
                 "en": "Java Developer | UI/Database Designer",
             },
-        }
+        },
+	"experience":{
+		"heading": {
+		"vi": "Công việc trong quá khứ và hiện tại",
+		"en": "Past and current jobs",
+		    },
+		"title": {
+			"vi": "Tôi đã học để trở thành một kỹ sư phát triển phần mềm chủ yếu tập trung vào bề mặt dưới, tức là phát triển Java với Spring framework. Nó cũng bao gồm các loại cơ sở dữ liệu.",
+			"en": "I has learnt to become a software engineer primarily focussing on backend i.e. Java Development with spring framework. It also includes database operations.",
+		},
+		"text": {
+                "vi": "Lập trình viên Java | Thiết kế Database/UI",
+                "en": "Java Developer | UI/Database Designer",
+            },
+	}
 
 	}
 };
