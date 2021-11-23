@@ -37,6 +37,14 @@
 			"en": "Java Developer | UI/Database Designer",
 		},
 		"form": {
+			"title": {
+				"vi": "Hãy làm việc cùng nhau",
+				"en": "Let's work together",
+			},
+			"name": {
+				"vi": "Nhập tên của bạn...",
+				"en": "Enter your name...",
+			},
 			"name": {
 				"vi": "Nhập tên của bạn...",
 				"en": "Enter your name...",
