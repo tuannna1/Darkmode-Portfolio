@@ -50,7 +50,7 @@
 				"en": "Send",
 			}
 		},
-        "service":{
+        "services":{
 	    "text1": {
 		"vi": "Tôi đang làm việc với framework Spring, chủ yếu bao gồm lập trình phụ thuộc và lập trình hướng khía cạnh.
 ",
