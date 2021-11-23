@@ -52,18 +52,17 @@
 		},
         "services":{
 	    "text1": {
-		"vi": "Tôi đang làm việc với framework Spring, chủ yếu bao gồm lập trình phụ thuộc và lập trình hướng khía cạnh.
-",
+		"vi": "Tôi đang làm việc với framework Spring, chủ yếu bao gồm lập trình phụ thuộc và lập trình hướng khía cạnh.",
 		"en": "I am working on spring framework which majorly comprises of dependency injection and aspect oriented programming.",
 		    },
             "text2": {
                 "vi": "Là một dự án phụ, tôi làm việc trên frontend của web devlopment với sự trợ giúp của angle, javascipt, css và html.",
                 "en": "As side project I work on frontend side of the web devlopment with the help of angular, javascipt, css and html.",
-            },
+                    },
 	    "text3": {
                 "vi": "Tôi cũng làm việc trên phần lập kế hoạch, phân tích, thiết kế, triển khai và bảo trì hệ thống cơ sở dữ liệu.",
                 "en": "I also work on the planning, analysis, design, deployment, and maintenance part of the database system.",
-            },
+                   }
         },
 	"experience":{
 		"heading": {
